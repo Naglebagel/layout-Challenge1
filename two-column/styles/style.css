@@ -1,0 +1,44 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: auto;
+}
+
+h1, h2, h3, h4, h5{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	margin-bottom: 5px;
+}
+
+header{
+	background-color: blue;
+}
+
+div{
+	height: 250px;
+	margin-bottom: 5px;
+}
+
+#left{
+	background-color: pink;
+	float: left;
+	width: 65%;
+	margin-left: 5px;
+}
+
+#right{
+	background-color: green;
+	float: right;
+	width: 30%;
+	margin-right: 5px;
+}
+
+footer{
+	background-color: orange;
+	height: 50px;
+	clear: both;
+}
