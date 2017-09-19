@@ -1,0 +1,59 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: auto;
+}
+
+h1, h2, h3, h4, h5{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	margin-bottom: 5px;
+}
+
+header{
+	background-color: blue;
+}
+
+div{
+	height: 250px;
+	margin-bottom: 5px;
+}
+#centerLeft{
+	background-color: brown;
+	width: 49%;
+	float: left;
+}
+#centerRight{
+	background-color: purple;
+	float: right;
+	width: 49%;
+}
+
+#left{
+	background-color: pink;
+	float: left;
+	width: 15%;
+	clear: both;
+}
+
+#center{
+	background-color: yellow;
+	float: left;
+	margin-left: 10px;
+	width: 67%;
+}
+
+#right{
+	background-color: green;
+	float: right;
+	width: 15%;
+}
+
+footer{
+	background-color: orange;
+	clear: both;
+}
